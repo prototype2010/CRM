@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="smallCRM:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="smallCRM.war">
+      <element id="artifact" artifact-name="smallCRM:war exploded" />
+    </root>
+  </artifact>
+</component>
